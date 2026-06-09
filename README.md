@@ -1,4 +1,4 @@
-# Atividade Estruturada 2 - Estrutura de Dados
+# Atividade Estruturada 2 (vetores e lista) - Estrutura de Dados
 
 Atividade respondida referente à disciplina **Estrutura de Dados** do curso de **Ciência da Computação**, sob orientação do professor **Afonso Nirton**.
 
